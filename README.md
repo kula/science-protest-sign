@@ -1,8 +1,7 @@
 The sentiment isn't mine, but the layout is.
 
-If you want to use the original portrait layout, use something like
-`pdflatex "\def\doportrait{} \input{what-do-we-want}"`
-
+The default is landscape, there's an alternate portrait version
+if you want that.
 
 Copyright 2017 Thomas L. Kula <kula@tproa.net>
 
